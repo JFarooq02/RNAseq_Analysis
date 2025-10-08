@@ -1,4 +1,4 @@
-# Bulk RNA-seq Analysis Repository
+# Bulk RNA-seq Analysis
 
 This repository contains quality control reports, count matrices, scripts, and visualizations from bulk RNA-seq analysis. It provides a reproducible workflow for RNA-seq data processing and visualization.
 
