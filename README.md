@@ -1,6 +1,6 @@
 # Bulk RNA-seq Analysis Repository
 
-This repository contains quality control reports, count matrices, scripts, and visualizations from bulk RNA-seq analysis.
+This repository contains quality control reports, count matrices, scripts, and visualizations from bulk RNA-seq analysis. It provides a reproducible workflow for RNA-seq data processing and visualization.
 
 ## Repository Structure
 - **01_QC_Reports/**: FastQC HTML reports for raw sequencing reads.
@@ -11,4 +11,4 @@ This repository contains quality control reports, count matrices, scripts, and v
 - FastQC for quality control
 - Python (`prepDE.py`) for count matrix extraction
 - Bash (`Bulk_RNA_seq.sh`) for workflow automation
-- Visualization for DEGS performed in IDEp
+- Visualization of DEGs performed in IDEp
